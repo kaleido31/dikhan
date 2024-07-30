@@ -1,0 +1,16 @@
+html{
+    background-color: beige;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+p{
+    text-align: justify;
+}
+  img{
+    border: 2px solid black;
+  }
+h1{
+    background-color: rgb(193, 236, 222);
+    padding: 10px;
+}
